@@ -23,4 +23,5 @@ Solution found
 - - - - - - - - - 0 - - - - - -
 ```
 
-* [Wikipedia Article](https://en.wikipedia.org/wiki/Eight_queens_puzzle)
+* [Eight queens puzzle | Wikipedia](https://en.wikipedia.org/wiki/Eight_queens_puzzle)
+* [N Queen Problem | Backtracking-3](https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/)
